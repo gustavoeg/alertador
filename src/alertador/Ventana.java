@@ -274,7 +274,7 @@ public class Ventana extends javax.swing.JFrame {
                         }
                 }
             }else{
-                //no es un dia y horario valido, no hago nada
+                //no es un dia y horario valido, no hago nada, solo muestro por consola
                 System.out.println("Dia y horario invalido.");
             }
         }
